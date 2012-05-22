@@ -1,0 +1,8 @@
+*.app
+*.exe
+*.csproj
+*.sln
+*.suo
+option*/
+Library/*
+Temp/*
